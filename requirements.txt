@@ -1,7 +1,6 @@
 plotly
-yfinance 
+alpha_vantage
 pandas
 shiny
 shinywidgets
 faicons
-cufflinks
